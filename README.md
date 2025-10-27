@@ -4,7 +4,9 @@ Functions & Commands:
 1) Initialize default values for:
 
 Page – sets the default page for a new tab
+
 Tab – default ID = 0
+
 Browser – initializes the sentinel node
 
 2) Push & Pop
